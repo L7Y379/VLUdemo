@@ -1,0 +1,5 @@
+<table> <tr style="border:black 1px solid">
+                            <th>账户名</th>
+                            <th>密码</th>
+                            <th>权限</th>
+                        </tr><tr style="border:black 1px solid"><td>xuesheng</td><td style="vnd.ms-excel.numberformat:@">xuesheng</td><td>1</td></tr><tr style="border:black 1px solid"><td>laoshi</td><td style="vnd.ms-excel.numberformat:@">laoshi</td><td>2</td></tr><tr style="border:black 1px solid"><td>root</td><td style="vnd.ms-excel.numberformat:@">LUOYUE.0322</td><td>3</td></tr></table>
